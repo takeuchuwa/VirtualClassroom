@@ -6,7 +6,6 @@
       xmlns:ui="http://xmlns.jcp.org/jsf/facelets"
       xmlns:f="http://xmlns.jcp.org/jsf/core" xmlns:p="http://primefaces.org/ui">
 <h:head>
-
 </h:head>
 <h:body>
     <style type="text/css">
@@ -38,7 +37,7 @@
                 Class Members
             </f:facet>
             <p:outputPanel id="listPanel">
-                #{listStudent.name} <p:graphicImage value="/img/#{student.handUp}.png"/>
+                #{listStudent.name} <p:graphicImage value="/img/#{listStudent.handUp}.png"/>
             </p:outputPanel>
         </p:dataList>
         <p:poll update="list"/>
