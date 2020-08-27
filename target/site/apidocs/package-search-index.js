@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"org.infostroy.filters"},{"l":"org.infostroy.models"},{"l":"org.infostroy.repo"},{"l":"org.infostroy.storage"},{"l":"org.infostroy.view"}]
