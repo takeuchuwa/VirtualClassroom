@@ -1,6 +1,7 @@
 # VirtualClassroom
 
 Deploy VirtualClassroom-1-0.war to your servlet container and start server.
+Class info: javadoc.
 
 Pages: 
 * /views/login.xhtml
